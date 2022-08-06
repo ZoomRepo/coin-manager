@@ -1,0 +1,2 @@
+'0: ONE PENNY'
+'1: HALF PENNY'
